@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Application;Programme;
+Comment=Just a Demo
+Encoding=UTF-8
+Exec=python /home/pi/Documents/fan/fan.py
+GenericName=A cpu-fan controller
+Icon=/home/pi/Documents/fan/cpu-fan.png
+Name=CPU-Fan
+Terminal=false
+Type=Application
